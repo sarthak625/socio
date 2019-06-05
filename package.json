@@ -1,0 +1,13 @@
+{
+  "name": "socio",
+  "version": "0.0.0",
+  "description": "A social media website",
+  "main": "app.js",
+  "repository": "",
+  "author": "Sarthak",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.1",
+    "express": "~3.2.4"
+  }
+}
